@@ -2,7 +2,7 @@
 2048 game in JQuery, HTML and CSS
 
 My second project in Jquery and 4th project for school. 
-It was a school project that I developped in 3 days.
+It was a school project that I developped in 2 days.
 
 It uses an HTML table and classes display images. 
 I used here the random function to be able to generate classes on random td.
