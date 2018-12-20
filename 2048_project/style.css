@@ -1,0 +1,112 @@
+body
+{
+    font-size: 24px;
+}
+
+#background
+{
+    width: 100%; 
+    height: 100%; 
+    position: fixed; 
+    left: 0px; 
+    top: 0px; 
+    z-index: -1;
+}
+
+.stretch {
+    width:100%;
+    height:100%;
+}
+
+header
+{
+    font-size: 70px;
+    text-align: center; 
+    background: white;
+    border: solid lightgray;
+    margin: 0px 0px 0px 0px;
+}
+
+td 
+{
+    height: 130px; 
+    width: 130px;
+    border-radius: 25px
+}
+
+table
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.empty
+{
+    background: lightgray;
+}
+
+.two
+{
+    background-image: url("1_number.jpg");
+}
+
+.four
+{
+    background-image: url("2_number.jpg");
+}
+
+.eight
+{
+    background-image: url("3_number.jpg");
+}
+
+.sixteen
+{
+    background-image: url("4_number.jpg");
+}
+
+.thirty_two
+{
+    background-image: url("5_number.jpg");
+}
+
+.sixty_four
+{
+    background-image: url("6_number.jpg");
+}
+
+.hundred_twenty_eight
+{
+    background-image: url("7_number.png");
+}
+
+.two_hundred_fifty_six
+{
+    background-image: url("8_number.png");
+}
+
+.five_hundred_twelve
+{
+    background-image: url("9_number.jpg");
+}
+
+.one_thousand_twenty_four
+{
+    background-image: url("10_number.jpg");
+}
+
+.two_thousand_forty_eight
+{
+    background-image: url("11_number.jpg");
+}
+
+#score
+{
+    font-size: 30px;
+}
+
+.score
+{
+    text-align: center;
+}
+
